@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 - 🚀 **Goal (Next 90 Days):** Ship [X] portfolio-grade projects + contribute to [N] OSS issues
 
 <!-- FEATURED PROJECTS -->
-<h2>Featured Projects</h2>
+<!-- <h2>Featured Projects</h2>
 
 <!-- Project Card Template (duplicate this block per project) -->
 <!-- <details open>
@@ -119,9 +119,9 @@ Here are some ideas to get you started:
 <!-- CERTIFICATIONS -->
 <h2>Certifications & Badges</h2>
 
-- 🎓 ALX ProDev — <i>[Track/Path]</i> — [MONTH YEAR]
-- 🛡️ <a href="[CERT_LINK]">[e.g., AWS Cloud Practitioner]</a> — [YEAR]
-- 🧪 <a href="[CERT_LINK]">[e.g., ISTQB Foundation]</a> — [YEAR]
+- 🎓 ALX ProDev — <i>[Track/Path]</i> — Decemeber, 2025
+- 🛡️ <a href="[CERT_LINK]">Microsoft Azure Fundamentals </a> — 2023
+
 
 <!-- WORKING STYLE -->
 <h2>How I Work</h2>
@@ -133,10 +133,10 @@ Here are some ideas to get you started:
 <!-- CONTACT -->
 <h2>Let’s Connect</h2>
 
-- 💼 Portfolio: <a href="https://github.com/Thimmyreign/thimmyreign/">[PORTFOLIO_URL]</a>  
+- 💼 Portfolio: <a href="https://github.com/Thimmyreign/thimmyreign/">Thimmyreign.io</a>  
 - ✉️ Email: <a href="mailto:thimmyreign">Thimmyreign@outlook.com</a>  
-- 🔗 LinkedIn: <a href="https://www.linkedin.com/in/oluwatimilehinolatunde">[LINKEDIN]</a>  
-- 🐦 X (Twitter): <a href="https://twitter.com/thimmyreign">@[TWITTER]</a>
+- 🔗 LinkedIn: <a href="https://www.linkedin.com/in/oluwatimilehinolatunde">Thimmy Reign</a>  
+- 🐦 X (Twitter): <a href="https://twitter.com/thimmyreign">@thimmyreign</a>
 
 <!-- FUN EXTRAS (Optional) -->
 <!--
