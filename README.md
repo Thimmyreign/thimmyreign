@@ -41,8 +41,8 @@ Here are some ideas to get you started:
 <blockquote>
   “I am a learner of the ALX ProDev and I want to revamp my GitHub Profile to make it stand out from the crowd in my job search.
   This is why I started with software engineering, what I am passionate about and what inspires me:
-  <b>I love turning complex problems into simple, scalable solutions and crafting delightful user experiences.]</b><br/><br/>
-  My aim is to <b>build trustworthy, accessible software that helps communities learn, create, and connect,</b> and that’s why I would like to work on <b>  AI-driven assistive features, developer tooling, real-time systems, and secure backend APIs..</b>
+  <b>I love turning complex problems into simple, scalable solutions and crafting delightful user experiences.</b><br/><br/>
+  My aim is to <b>build trustworthy, accessible software that helps communities learn, create, and connect,</b> and that’s why I would like to work on <b>  AI-driven assistive features, developer tooling, real-time systems, and secure backend APIs"</b>
 </blockquote>
 
 <!-- QUICK STATS -->
