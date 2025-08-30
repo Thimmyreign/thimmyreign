@@ -39,7 +39,7 @@ Here are some ideas to get you started:
   <a href="mailto:thimmyreign@outlook.com"><img src="https://img.shields.io/badge/Email-Contact-informational" /></a>
   <a href="https://thimmyreign.github.io/[PORTFOLIO_SLUG]"><img src="https://img.shields.io/badge/Portfolio-Visit-blue" /></a>
   <a href="https://twitter.com/thimmyreign"><img src="https://img.shields.io/badge/X(Twitter)-Follow-black" /></a>
-  <a href="https://instagram.com/thimmyreign"><img src="https://img.shields.io/badge/X(Twitter)-Follow-black" /></a>
+  <a href="https://instagram.com/thimmyreign"><img src="https://img.shields.io/badge/instagram-Follow-black" /></a>
 </p>
 
 <!-- VALUE PROPOSITION -->
@@ -52,11 +52,11 @@ Here are some ideas to get you started:
 </blockquote>
 
 <!-- QUICK STATS -->
-<p align="center">
+<!-- <p align="center"> -->
   <!-- GitHub Readme Stats (optional; replace with your username) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=[GITHUB_USERNAME]&show_icons=true&include_all_commits=true&hide_title=true" height="165" />
+ <!--  <img src="https://github-readme-stats.vercel.app/api?username=[GITHUB_USERNAME]&show_icons=true&include_all_commits=true&hide_title=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[GITHUB_USERNAME]&layout=compact&hide_title=true" height="165" />
-</p>
+</p> -->
 
 <!-- CORE SKILLS -->
 <h2>Core Skills</h2>
@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 - **Frontend:** [REACT / NEXT.js / HTML / CSS / TAILWIND]
 - **Backend:** [NODE.js / EXPRESS / DJANGO / FASTAPI]
 - **Databases:** [POSTGRES / MONGODB / REDIS]
-- **Cloud & DevOps:** [LINUX / DOCKER / GITHUB ACTIONS / CI/CD / AWS / AZURE]
+- **Cloud & DevOps:** [LINUX / DOCKER / GITHUB ACTIONS / CI/CD / / AZURE]
 - **Security & Testing:** [OWASP BASICS / JEST / PYTEST / POSTMAN]
 - **Strengths:** [CLEAN ARCHITECTURE / ACCESSIBILITY / PERFORMANCE / DOCUMENTATION]
 
