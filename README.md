@@ -1,4 +1,4 @@
-## Hi there 👋
+<!-- ## Hi there 👋
 
 <!--
 **Thimmyreign/thimmyreign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,15 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there, I'm [Your Name]! 👋
 
-![Banner Image](your_banner_image_url_here)
-
-## About Me 🚀
 
 <!-- =========================================
    GITHUB PROFILE README – PROFESSIONAL TEMPLATE
-   Tip: Replace ALL CAPS placeholders with your details
 ========================================== -->
 
 <!-- HEADER -->
@@ -47,8 +42,7 @@ Here are some ideas to get you started:
   “I am a learner of the ALX ProDev and I want to revamp my GitHub Profile to make it stand out from the crowd in my job search.
   This is why I started with software engineering, what I am passionate about and what inspires me:
   <b>[ADD 2–3 LINES: e.g., I love turning complex problems into simple, scalable solutions and crafting delightful user experiences.]</b><br/><br/>
-  My aim is to <b>[INSERT YOUR VISION: e.g., build trustworthy, accessible digital tools used by millions]</b> and that’s why I would like to work on
-  <b>[INSERT PROJECT TYPES: e.g., frontend platforms, AI-assisted productivity tools, and secure APIs]</b>.
+  My aim is to <b>build trustworthy, accessible software that helps communities learn, create, and connect,</b> and that’s why I would like to work on <b>  AI-driven assistive features, developer tooling, real-time systems, and secure backend APIs..</b>
 </blockquote>
 
 <!-- QUICK STATS -->
@@ -61,12 +55,12 @@ Here are some ideas to get you started:
 <!-- CORE SKILLS -->
 <h2>Core Skills</h2>
 
-- **Languages:** [PYTHON / JAVASCRIPT / TYPESCRIPT / GO / etc.]
-- **Frontend:** [REACT / NEXT.js / HTML / CSS / TAILWIND]
-- **Backend:** [NODE.js / EXPRESS / DJANGO / FASTAPI]
-- **Databases:** [POSTGRES / MONGODB / REDIS]
-- **Cloud & DevOps:** [LINUX / DOCKER / GITHUB ACTIONS / CI/CD / / AZURE]
-- **Security & Testing:** [OWASP BASICS / JEST / PYTEST / POSTMAN]
+- **Languages:** [PYTHON / JAVASCRIPT]
+- **Frontend:** [HTML / CSS / TAILWIND]
+- **Backend:** [DJANGO / FASTAPI]
+<!-- - **Databases:** [POSTGRES / MONGODB / REDIS] 
+- **Cloud & DevOps:** [LINUX / DOCKER / GITHUB ACTIONS / CI/CD / / AZURE] 
+- **Security & Testing:** [OWASP BASICS / JEST / PYTEST / POSTMAN] -->
 - **Strengths:** [CLEAN ARCHITECTURE / ACCESSIBILITY / PERFORMANCE / DOCUMENTATION]
 
 <!-- WHAT I’M FOCUSED ON -->
@@ -80,7 +74,7 @@ Here are some ideas to get you started:
 <h2>Featured Projects</h2>
 
 <!-- Project Card Template (duplicate this block per project) -->
-<details open>
+<!-- <details open>
   <summary><b>[PROJECT NAME]</b> — <i>[one-line value: e.g., “Fast, accessible notes app with AI summaries”]</i></summary>
   <br/>
   <p>
@@ -103,21 +97,24 @@ Here are some ideas to get you started:
   </p>
 </details>
 
+-->
+
 <!-- OPEN SOURCE -->
-<h2>Open Source & Community</h2>
+<!-- <h2>Open Source & Community</h2>
 
 - 🧩 Contributions: [PROJECT/ORG] — [links to PRs/issues]
 - 🌱 Volunteering/Mentorship: [YOUR ROLE / IMPACT]
 - ✍🏽 Writing: <a href="https://dev.to/[USERNAME]">Dev.to</a> · <a href="https://medium.com/@[USERNAME]">Medium</a> — topics: [e.g., accessibility, DX, CI/CD]
+-->
 
 <!-- EXPERIENCE SNAPSHOT -->
-<h2>Experience Snapshot</h2>
+<!-- <h2>Experience Snapshot</h2>
 
 <!-- Keep concise; link to more details -->
-- <b>[ROLE] · [COMPANY]</b> — [YYYY–YYYY]  
+<!-- <b>[ROLE] · [COMPANY]</b> — [YYYY–YYYY]  
   Impact: [1-2 bullet lines with metrics if possible—e.g., cut build times 40% via CI, raised Lighthouse perf to 95+]
 - <b>[ROLE] · [COMPANY]</b> — [YYYY–YYYY]  
-  Impact: [...]
+  Impact: [...] -->
 
 <!-- CERTIFICATIONS -->
 <h2>Certifications & Badges</h2>
@@ -136,12 +133,13 @@ Here are some ideas to get you started:
 <!-- CONTACT -->
 <h2>Let’s Connect</h2>
 
-- 💼 Portfolio: <a href="https://[PORTFOLIO_URL]">[PORTFOLIO_URL]</a>  
-- ✉️ Email: <a href="mailto:[YOUR_EMAIL]">[YOUR_EMAIL]</a>  
-- 🔗 LinkedIn: <a href="https://www.linkedin.com/in/[LINKEDIN]">[LINKEDIN]</a>  
-- 🐦 X (Twitter): <a href="https://twitter.com/[TWITTER]">@[TWITTER]</a>
+- 💼 Portfolio: <a href="https://github.com/Thimmyreign/thimmyreign/">[PORTFOLIO_URL]</a>  
+- ✉️ Email: <a href="mailto:thimmyreign">Thimmyreign@outlook.com</a>  
+- 🔗 LinkedIn: <a href="https://www.linkedin.com/in/oluwatimilehinolatunde">[LINKEDIN]</a>  
+- 🐦 X (Twitter): <a href="https://twitter.com/thimmyreign">@[TWITTER]</a>
 
 <!-- FUN EXTRAS (Optional) -->
+<!--
 <details>
   <summary>Fun Extras</summary>
   <br/>
@@ -151,10 +149,10 @@ Here are some ideas to get you started:
     <li>Ask me about: <b>[TOPICS]</b></li>
   </ul>
 </details>
-
+-->
 <!-- FOOTER CTA -->
-<p align="center">
+<!-- <p align="center">
   <i>Open to internships, junior roles, and freelance projects where I can build, learn, and deliver real value.</i><br/>
   <a href="https://github.com/[GITHUB_USERNAME]?tab=repositories"><b>Browse my repos →</b></a>
 </p>
-
+-->
